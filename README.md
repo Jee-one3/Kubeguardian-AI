@@ -1,6 +1,7 @@
-# KubeGuardian AI
-## AI-Powered Kubernetes & Terraform Governance Platform
-
+<p align="center">
+  <strong>KubeGuardian AI</strong><br>
+  <em>AI-Powered Kubernetes & Terraform Governance Platform</em>
+</p>
 
 <p align="center">
   <sub><strong>Built with</strong></sub>
@@ -15,9 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" />
   </a>
   &nbsp;
-  <a href="https://www.uvicorn.org/" target="_blank" title="Uvicorn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="44" height="44" alt="Uvicorn" />
-  </a>
   &nbsp;
   <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" />
@@ -51,8 +49,6 @@
 **KubeGuardian AI** is a cloud-native governance platform that reviews **Kubernetes manifests** and **Terraform infrastructure code** before deployment — surfacing security, reliability, and operational risks early in the delivery pipeline.
 
 Where most scanners stop at raw error lists, KubeGuardian adds **risk scoring**, **context-rich remediation guidance**, **AI-generated executive summaries**, and **shareable PDF reports** — giving DevOps, platform, and security teams a clear picture of infrastructure health without digging through logs or config files.
-
-> **In one line:** Shift-left infrastructure governance — from misconfiguration to actionable fix, in minutes.
 
 ---
 
@@ -272,27 +268,23 @@ Kubeguardian/
 
 ### Shipped
 
-- [x] Kubernetes manifest analysis (security + reliability)
-- [x] Terraform file analysis (governance)
-- [x] Severity-weighted risk scoring
-- [x] Knowledge-based remediation enrichment
-- [x] AI executive summaries and remediation reports
-- [x] PDF report generation
-- [x] GitHub repository scanning (Terraform)
-
-### In Progress
-
-- [ ] Web UI for uploads and report viewing
-- [ ] Kubernetes file discovery in repository scans
-- [ ] Docker containerization
-- [ ] Cloud deployment (GCP Cloud Run)
+- Kubernetes manifest analysis (security + reliability)
+- Terraform file analysis (governance)
+- Severity-weighted risk scoring
+- Knowledge-based remediation enrichment
+- AI executive summaries and remediation reports
+- PDF report generation
+- GitHub repository scanning (Terraform)
 
 ### Planned
 
-- [ ] CI/CD pipeline integration (GitHub Actions)
-- [ ] Policy-as-code support
-- [ ] OPA / Gatekeeper integration
-- [ ] Multi-cloud governance expansion
+- GitHub Repository Scanning
+- Cloud Run Deployment
+- CI/CD Integration
+- Policy-as-Code Support
+- OPA / Gatekeeper Integration
+- Multi-Cloud Governance
+
 
 ---
 
