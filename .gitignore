@@ -1,0 +1,37 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Env
+
+venv/
+.env
+
+# Mac
+
+.DS_Store
+
+# Uploads
+
+backend/uploads/*
+
+# Generated Reports
+
+reports/*.pdf
+
+# IDE
+
+.vscode/
+.idea/
+
+# Testing
+
+.pytest_cache/
+
+# Terraform
+
+*.tfstate
+*.tfstate.*
+.terraform/
