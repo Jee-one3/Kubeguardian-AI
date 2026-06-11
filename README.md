@@ -300,11 +300,3 @@ Kubeguardian/
 By combining rule-based analysis, a structured knowledge layer, and AI-assisted reporting, KubeGuardian helps teams deploy infrastructure with **greater confidence** and **fewer surprises**.
 
 ---
-
-<p align="center">
-  <strong>Built for DevOps Engineers · SREs · Platform Engineers · Cloud & DevSecOps Teams</strong>
-</p>
-
-<p align="center">
-  <sub>Portfolio project — Infrastructure governance, shift-left security, and AI-assisted DevOps tooling</sub>
-</p>
