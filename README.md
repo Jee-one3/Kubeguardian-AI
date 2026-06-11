@@ -1,7 +1,6 @@
-<p align="center">
-  <strong>KubeGuardian AI</strong><br>
-  <em>AI-Powered Kubernetes & Terraform Governance Platform</em>
-</p>
+# KubeGuardian AI
+## AI-Powered Kubernetes & Terraform Governance Platform
+
 
 <p align="center">
   <sub><strong>Built with</strong></sub>
